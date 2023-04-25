@@ -18,4 +18,6 @@ ad.butler@mail.utoronto.ca
 
 - - -
 
+## People
+
 ## Projects
